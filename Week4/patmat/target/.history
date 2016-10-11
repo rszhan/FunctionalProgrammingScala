@@ -1,0 +1,11 @@
+test
+submit rick.zhan@gmail.com sm43eBuzJLsuGVVY
+decodeSecret
+decodedSecret
+scala
+sbt
+val a = 1
+scala
+run
+Huffman.decodedSecret
+console
